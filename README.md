@@ -12,7 +12,7 @@ Exploratory SQL analysis on job posting data using conditional logic (`CASE WHEN
 
 ```
 queries/
-└── salary_analysis.sql
+└── case.sql
 ```
 
 ---
