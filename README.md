@@ -3,7 +3,7 @@
 Exploratory SQL analysis on job posting data using conditional logic (`CASE WHEN`) to bucket, categorize, and standardize salaries across data roles.
 
 **Tool:** DuckDB  
-**Dataset:** `job_postings_fact` (~100k+ job postings)  
+**Dataset:** `job_postings_fact` (~1.6M+ job postings)  
 **Skills practiced:** `CASE WHEN`, `LIKE`, conditional aggregation, CTEs, NULL handling
 
 ---
